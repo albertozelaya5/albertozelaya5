@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertozelaya5&show_icons=true&theme=radical)
