@@ -17,13 +17,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertozelaya5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Tecnologies:
-
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-
-[![Python](https://img.shields.io/badge/-Html-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertozelaya5&show_icons=true&theme=radical)
