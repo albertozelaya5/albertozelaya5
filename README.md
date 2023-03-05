@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
+[![Python](https://img.shields.io/badge/-Html-orange?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertozelaya5&show_icons=true&theme=radical)
