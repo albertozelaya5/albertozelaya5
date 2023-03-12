@@ -15,8 +15,17 @@ Here are some ideas to get you started:
 
 ##Tecnologias:
 <br>
-     <img src="https://img.shields.io/badge/-Html-orange" alt="html">
+     <img src="https://img.shields.io/badge/-HTML-orange" alt="html">
      <img src="https://img.shields.io/badge/-CSS-blue" alt="html">
+     <img src="https://img.shields.io/badge/-PYTHON-yellow" alt="html">
+     <img src="https://img.shields.io/badge/-JAVA-red" alt="html">
+     <img src="https://img.shields.io/badge/-BOOTSTRAP-purple" alt="html">
+     <br>
+     <img src="https://img.shields.io/badge/-C-blue" alt="html">
+     <img src="https://img.shields.io/badge/-C%2B%2B-blue" alt="html">
+     <img src="https://img.shields.io/badge/-C%23-violet" alt="html">
+     <img src="https://img.shields.io/badge/-CISCO-lightblue" alt="html">
+     
 <br>
 https://img.shields.io/badge/-Css-blue
 
