@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
      <h1>Tecnologias</h1>
-     <hr>
+     <br>
      <img src="https://img.shields.io/badge/-HTML-orange" alt="html">
      <img src="https://img.shields.io/badge/-CSS-blue" alt="html">
      <img src="https://img.shields.io/badge/-PYTHON-yellow" alt="html">
