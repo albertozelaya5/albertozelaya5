@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ##Tecnologias:
 <br>
-https://img.shields.io/badge/-Html-orange
+     <img src="[https://img.shields.io/badge/-Html-orange](https://img.shields.io/badge/-HTML-orange)" alt="html">
+     <img src="[https://img.shields.io/badge/-CSS-blue)" alt="html">
 <br>
 https://img.shields.io/badge/-Css-blue
 
