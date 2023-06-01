@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
-     <h1>Tecnologias</h1>
+     <h1>Tecnologies</h1>
      <br>
      <img src="https://img.shields.io/badge/-HTML-orange" alt="html">
      <img src="https://img.shields.io/badge/-CSS-blue" alt="html">
