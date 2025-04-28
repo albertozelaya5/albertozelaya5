@@ -7,7 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alberto.zelaya.988/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alberto-zelaya-b2a3ba210/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thetecguy8861) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:albertolaniman@gmail.com)
 
 # 📂 Portfolio: 
-[![myPortoflio](https://img.shields.io/badge/MyPorfolio-grey?style=for-the-badge&logo=protodotio)](https://comfy-ganache-660fec.netlify.app/)
+[![myPortoflio](https://img.shields.io/badge/MyPorfolio-grey?style=for-the-badge&logo=protodotio)](https://portfolio-albertozelaya5.netlify.app/)
 
 
 # 💻 Tech Stack:
